@@ -7,7 +7,10 @@ RollNames Purple Red Blue Green
 
 Installation process
 
-git clone link
+git clone https://github.com/HeaderGuard/RollNames.git
+
 cd RollNames
+
 make
+
 make install

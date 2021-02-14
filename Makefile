@@ -8,4 +8,6 @@ clean :
 	clear
 debug :
 	gcc --std=c99 -g -o debug *.c
+install :
+	sudo cp ./RollNames /usr/local/bin
 
